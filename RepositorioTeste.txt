@@ -1,0 +1,2 @@
+
+Arquivo utilizado para armazenar informações sobre o repositorio teste
